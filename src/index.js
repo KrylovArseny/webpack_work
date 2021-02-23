@@ -1,1 +1,3 @@
-console.log('sdfds')
+import './scss/index.scss'
+
+console.log('Working!')
